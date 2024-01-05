@@ -6,4 +6,4 @@ Mission: Tamopei is on a mission to revolutionize the way individuals and busine
 
 
 To check out the features 
-#check this link http://dashboard.tamopei.com.ng/
+#check this link https://dashboard.tamopei.com.ng/
